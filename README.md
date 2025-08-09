@@ -2,7 +2,7 @@
 
 A simple React + Spring Boot + MySQL CRUD application with authentication and search functionality.
 
-# ADMIN L0gin Credentials :
+# ADMIN Login Credentials :
       
       Username : admin
       Password : admin123
@@ -106,3 +106,4 @@ npm start
 http://localhost:3000
 
 ---
+
