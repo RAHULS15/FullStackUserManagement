@@ -42,9 +42,13 @@ backend/src/main/resources/application.properties
 Update:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/userdb
+
 spring.datasource.username=YOUR_MYSQL_USERNAME
+
 spring.datasource.password=YOUR_MYSQL_PASSWORD
+
 spring.jpa.hibernate.ddl-auto=update
+
 spring.jpa.show-sql=true
 
 ---
@@ -106,4 +110,5 @@ npm start
 http://localhost:3000
 
 ---
+
 
